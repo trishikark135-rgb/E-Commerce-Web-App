@@ -1,2 +1,55 @@
-# E-Commerce-Web-App
-A full-stack E-Commerce Web Application built using HTML, CSS, JavaScript, Node.js, Express.js, and MongoDB, featuring user authentication, product listings, shopping cart, and order management.
+# E-Commerce Web Application
+
+## About
+
+A full-stack E-Commerce Web Application developed using HTML, CSS, JavaScript, Node.js, Express.js, and MongoDB.
+
+## Features
+
+* User registration and login
+* Product listing
+* Shopping cart
+* Order placement
+* Responsive user interface
+
+## Technologies Used
+
+* HTML
+* CSS
+* JavaScript
+* Node.js
+* Express.js
+* MongoDB
+* Mongoose
+
+## Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone YOUR-REPOSITORY-URL
+   ```
+
+2. Navigate to the project folder:
+
+   ```bash
+   cd E-Commerce-Web-App
+   ```
+
+3. Install dependencies:
+
+   ```bash
+   npm install
+   ```
+
+4. Configure your `.env` file with your MongoDB connection string and JWT secret.
+
+5. Start the application:
+
+   ```bash
+   npm run dev
+   ```
+
+## Author
+
+Trishika
